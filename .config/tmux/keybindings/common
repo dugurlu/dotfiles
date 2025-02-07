@@ -1,0 +1,2 @@
+source ~/.config/tmux/keybindings/f-keys.tmux.disable
+source ~/.config/tmux/keybindings/f-keys.tmux
