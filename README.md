@@ -26,6 +26,11 @@ git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 sudo nala install neovim
 ```
 
+### fzf
+```
+sudo nala install fzf
+```
+
 ### oh-my-zsh
 [zsh installation](https://ohmyz.sh/#install)
 
