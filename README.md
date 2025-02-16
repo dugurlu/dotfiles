@@ -48,3 +48,9 @@ cd ~/dotfiles
 stow .
 ```
 
+One-time installation of tmux plugins:
+```
+tmux
+<f-12>-I
+```
+
