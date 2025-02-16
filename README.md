@@ -43,7 +43,7 @@ Some features require a nerdfont to display glyphs/icons - choose one from here,
 To install clone the repository then run `stow` in it to create symlinks
 
 ```
-git clone git@github.com:dugurlu/dotfiles.git ~/dotfiles
+git clone https://github.com/dugurlu/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 stow .
 ```
