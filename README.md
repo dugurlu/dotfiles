@@ -37,7 +37,7 @@ sudo nala install fzf
 ### Nerdfonts
 Some features require a nerdfont to display glyphs/icons - choose one from here, e.g. `JetBrainsMono Nerd Font`:
 
-[Nerf Fonts](https://www.nerdfonts.com/)
+[Nerd Fonts](https://www.nerdfonts.com/)
 
 ## Installation / usage
 To install clone the repository then run `stow` in it to create symlinks
